@@ -86,3 +86,4 @@ function draw() {
   else if(keyCode === RIGHT_ARROW){
   HelicopterSprite.x=helicopterSprites.x+20
   }
+  }
